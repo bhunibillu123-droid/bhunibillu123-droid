@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="profile.jpeg" width="160" height="160" style="border-radius:50%;" alt="Bhunendra Billu" />
+  <img src="C:\Users\bhuni\Downloads\profile.jpeg.jpeg" width="160" height="160" style="border-radius:50%;" alt="Bhunendra Billu" />
 
   <h1>BHUNENDRA BILLU</h1>
 
